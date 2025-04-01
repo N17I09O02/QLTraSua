@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\file r\u00E1c\\C\\QLTraSua\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFCF62F-F330-4F68-B20E-C7AE27A03982}|QLTraSua\\QLTraSua.csproj|D:\\file r\u00E1c\\C\\QLTraSua\\qltrasua\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BFCF62F-F330-4F68-B20E-C7AE27A03982}|QLTraSua\\QLTraSua.csproj|solutionrelative:qltrasua\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFCF62F-F330-4F68-B20E-C7AE27A03982}|QLTraSua\\QLTraSua.csproj|d:\\file r\u00E1c\\c\\qltrasua\\qltrasua\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFCF62F-F330-4F68-B20E-C7AE27A03982}|QLTraSua\\QLTraSua.csproj|solutionrelative:qltrasua\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFCF62F-F330-4F68-B20E-C7AE27A03982}|QLTraSua\\QLTraSua.csproj|D:\\file r\u00E1c\\C\\QLTraSua\\qltrasua\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFCF62F-F330-4F68-B20E-C7AE27A03982}|QLTraSua\\QLTraSua.csproj|solutionrelative:qltrasua\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFCF62F-F330-4F68-B20E-C7AE27A03982}|QLTraSua\\QLTraSua.csproj|D:\\file r\u00E1c\\C\\QLTraSua\\qltrasua\\progam\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFCF62F-F330-4F68-B20E-C7AE27A03982}|QLTraSua\\QLTraSua.csproj|solutionrelative:qltrasua\\progam\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFCF62F-F330-4F68-B20E-C7AE27A03982}|QLTraSua\\QLTraSua.csproj|D:\\file r\u00E1c\\C\\QLTraSua\\qltrasua\\progam\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BFCF62F-F330-4F68-B20E-C7AE27A03982}|QLTraSua\\QLTraSua.csproj|solutionrelative:qltrasua\\progam\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFCF62F-F330-4F68-B20E-C7AE27A03982}|QLTraSua\\QLTraSua.csproj|D:\\file r\u00E1c\\C\\QLTraSua\\qltrasua\\progam\\qlmon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFCF62F-F330-4F68-B20E-C7AE27A03982}|QLTraSua\\QLTraSua.csproj|solutionrelative:qltrasua\\progam\\qlmon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFCF62F-F330-4F68-B20E-C7AE27A03982}|QLTraSua\\QLTraSua.csproj|D:\\file r\u00E1c\\C\\QLTraSua\\qltrasua\\progam\\qlmon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BFCF62F-F330-4F68-B20E-C7AE27A03982}|QLTraSua\\QLTraSua.csproj|solutionrelative:qltrasua\\progam\\qlmon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\file r\u00E1c\\C\\QLTraSua\\QLTraSua\\Program.cs",
+              "RelativeDocumentMoniker": "QLTraSua\\Program.cs",
+              "ToolTip": "D:\\file r\u00E1c\\C\\QLTraSua\\QLTraSua\\Program.cs",
+              "RelativeToolTip": "QLTraSua\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T10:46:58.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "D:\\file r\u00E1c\\C\\QLTraSua\\QLTraSua\\Progam\\DangNhap.cs",
+              "RelativeDocumentMoniker": "QLTraSua\\Progam\\DangNhap.cs",
+              "ToolTip": "D:\\file r\u00E1c\\C\\QLTraSua\\QLTraSua\\Progam\\DangNhap.cs",
+              "RelativeToolTip": "QLTraSua\\Progam\\DangNhap.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-25T02:59:51.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\file r\u00E1c\\C\\QLTraSua\\QLTraSua\\Progam\\DangNhap.cs",
+              "RelativeDocumentMoniker": "QLTraSua\\Progam\\DangNhap.cs",
+              "ToolTip": "D:\\file r\u00E1c\\C\\QLTraSua\\QLTraSua\\Progam\\DangNhap.cs [Design]",
+              "RelativeToolTip": "QLTraSua\\Progam\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-25T02:59:49.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QLMon.cs",
+              "DocumentMoniker": "D:\\file r\u00E1c\\C\\QLTraSua\\QLTraSua\\Progam\\QLMon.cs",
+              "RelativeDocumentMoniker": "QLTraSua\\Progam\\QLMon.cs",
+              "ToolTip": "D:\\file r\u00E1c\\C\\QLTraSua\\QLTraSua\\Progam\\QLMon.cs",
+              "RelativeToolTip": "QLTraSua\\Progam\\QLMon.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAiwLYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-23T07:52:25.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QLMon.cs [Design]",
+              "DocumentMoniker": "D:\\file r\u00E1c\\C\\QLTraSua\\QLTraSua\\Progam\\QLMon.cs",
+              "RelativeDocumentMoniker": "QLTraSua\\Progam\\QLMon.cs",
+              "ToolTip": "D:\\file r\u00E1c\\C\\QLTraSua\\QLTraSua\\Progam\\QLMon.cs [Design]",
+              "RelativeToolTip": "QLTraSua\\Progam\\QLMon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-23T10:27:56.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\file r\u00E1c\\C\\QLTraSua\\QLTraSua\\Form1.cs",
+              "RelativeDocumentMoniker": "QLTraSua\\Form1.cs",
+              "ToolTip": "D:\\file r\u00E1c\\C\\QLTraSua\\QLTraSua\\Form1.cs",
+              "RelativeToolTip": "QLTraSua\\Form1.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAApwH4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-22T17:38:02.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\file r\u00E1c\\C\\QLTraSua\\QLTraSua\\Form1.cs",
+              "RelativeDocumentMoniker": "QLTraSua\\Form1.cs",
+              "ToolTip": "D:\\file r\u00E1c\\C\\QLTraSua\\QLTraSua\\Form1.cs [Design]",
+              "RelativeToolTip": "QLTraSua\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-22T17:37:57.861Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

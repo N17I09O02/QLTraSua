@@ -1,0 +1,59 @@
+C:\Users\ASUS\Documents\QLTraSua\QLTraSua\bin\Debug\QLTraSua.exe.config
+C:\Users\ASUS\Documents\QLTraSua\QLTraSua\bin\Debug\QLTraSua.exe
+C:\Users\ASUS\Documents\QLTraSua\QLTraSua\bin\Debug\QLTraSua.pdb
+C:\Users\ASUS\Documents\QLTraSua\QLTraSua\obj\Debug\QLTraSua.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\QLTraSua\QLTraSua\obj\Debug\QLTraSua.Danh_Mục.QLBan.resources
+C:\Users\ASUS\Documents\QLTraSua\QLTraSua\obj\Debug\QLTraSua.Danh_Mục.QLMenu.resources
+C:\Users\ASUS\Documents\QLTraSua\QLTraSua\obj\Debug\QLTraSua.Form1.resources
+C:\Users\ASUS\Documents\QLTraSua\QLTraSua\obj\Debug\QLTraSua.Properties.Resources.resources
+C:\Users\ASUS\Documents\QLTraSua\QLTraSua\obj\Debug\QLTraSua.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\QLTraSua\QLTraSua\obj\Debug\QLTraSua.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\QLTraSua\QLTraSua\obj\Debug\QLTraSua.exe
+C:\Users\ASUS\Documents\QLTraSua\QLTraSua\obj\Debug\QLTraSua.pdb
+C:\Users\ASUS\Documents\QLTraSua\QLTraSua\obj\Debug\QLTraSua.Danh_Mục.AddBan.resources
+C:\Users\ASUS\Documents\QLTraSua\QLTraSua\obj\Debug\QLTraSua.Danh_Mục.AddKhuVuc.resources
+C:\Users\ASUS\Documents\QLTraSua\QLTraSua\obj\Debug\QLTraSua.Danh_Mục.AddMon.resources
+C:\Users\ASUS\Documents\QLTraSua\QLTraSua\obj\Debug\QLTraSua.Danh_Mục.AddNhom.resources
+C:\Users\ASUS\Documents\QLTraSua\QLTraSua\obj\Debug\QLTraSua.Danh_Mục.FixBan.resources
+C:\Users\ASUS\Documents\QLTraSua\QLTraSua\obj\Debug\QLTraSua.Danh_Mục.FixKhuVuc.resources
+C:\Users\ASUS\Documents\QLTraSua\QLTraSua\obj\Debug\QLTraSua.Danh_Mục.FixMon.resources
+C:\Users\ASUS\Documents\QLTraSua\QLTraSua\obj\Debug\QLTraSua.Danh_Mục.FixNhom.resources
+D:\file rác\C#\QLTraSua\QLTraSua\bin\Debug\QLTraSua.exe.config
+D:\file rác\C#\QLTraSua\QLTraSua\bin\Debug\QLTraSua.exe
+D:\file rác\C#\QLTraSua\QLTraSua\bin\Debug\QLTraSua.pdb
+D:\file rác\C#\QLTraSua\QLTraSua\bin\Debug\EntityFramework.dll
+D:\file rác\C#\QLTraSua\QLTraSua\bin\Debug\EntityFramework.SqlServer.dll
+D:\file rác\C#\QLTraSua\QLTraSua\bin\Debug\EntityFramework.xml
+D:\file rác\C#\QLTraSua\QLTraSua\bin\Debug\EntityFramework.SqlServer.xml
+D:\file rác\C#\QLTraSua\QLTraSua\obj\Debug\QLTraSua.csproj.AssemblyReference.cache
+D:\file rác\C#\QLTraSua\QLTraSua\obj\Debug\QLTraSua.Danh_Mục.QLBan.resources
+D:\file rác\C#\QLTraSua\QLTraSua\obj\Debug\QLTraSua.Form1.resources
+D:\file rác\C#\QLTraSua\QLTraSua\obj\Debug\QLTraSua.Properties.Resources.resources
+D:\file rác\C#\QLTraSua\QLTraSua\obj\Debug\QLTraSua.csproj.GenerateResource.cache
+D:\file rác\C#\QLTraSua\QLTraSua\obj\Debug\QLTraSua.csproj.CoreCompileInputs.cache
+D:\file rác\C#\QLTraSua\QLTraSua\obj\Debug\QLTraSua.csproj.CopyComplete
+D:\file rác\C#\QLTraSua\QLTraSua\obj\Debug\QLTraSua.exe
+D:\file rác\C#\QLTraSua\QLTraSua\obj\Debug\QLTraSua.pdb
+D:\file rác\C#\QLTraSua\QLTraSua\obj\Debug\QLTraSua.Danh_Mục.QLMon.resources
+D:\file rác\C#\QLTraSua\QLTraSua\obj\Debug\QLTraSua.Progam.QLDanhMuc.resources
+D:\file rác\C\QLTraSua\QLTraSua\bin\Debug\QLTraSua.exe.config
+D:\file rác\C\QLTraSua\QLTraSua\bin\Debug\QLTraSua.exe
+D:\file rác\C\QLTraSua\QLTraSua\bin\Debug\QLTraSua.pdb
+D:\file rác\C\QLTraSua\QLTraSua\bin\Debug\EntityFramework.dll
+D:\file rác\C\QLTraSua\QLTraSua\bin\Debug\EntityFramework.SqlServer.dll
+D:\file rác\C\QLTraSua\QLTraSua\bin\Debug\EntityFramework.xml
+D:\file rác\C\QLTraSua\QLTraSua\bin\Debug\EntityFramework.SqlServer.xml
+D:\file rác\C\QLTraSua\QLTraSua\obj\Debug\QLTraSua.csproj.AssemblyReference.cache
+D:\file rác\C\QLTraSua\QLTraSua\obj\Debug\QLTraSua.Danh_Mục.QLBan.resources
+D:\file rác\C\QLTraSua\QLTraSua\obj\Debug\QLTraSua.Progam.QLDanhMuc.resources
+D:\file rác\C\QLTraSua\QLTraSua\obj\Debug\QLTraSua.Danh_Mục.QLMon.resources
+D:\file rác\C\QLTraSua\QLTraSua\obj\Debug\QLTraSua.Form1.resources
+D:\file rác\C\QLTraSua\QLTraSua\obj\Debug\QLTraSua.Properties.Resources.resources
+D:\file rác\C\QLTraSua\QLTraSua\obj\Debug\QLTraSua.csproj.GenerateResource.cache
+D:\file rác\C\QLTraSua\QLTraSua\obj\Debug\QLTraSua.csproj.CoreCompileInputs.cache
+D:\file rác\C\QLTraSua\QLTraSua\obj\Debug\QLTraSua.csproj.CopyComplete
+D:\file rác\C\QLTraSua\QLTraSua\obj\Debug\QLTraSua.exe
+D:\file rác\C\QLTraSua\QLTraSua\obj\Debug\QLTraSua.pdb
+D:\file rác\C\QLTraSua\QLTraSua\obj\Debug\QLTraSua.Progam.DangNhap.resources
+D:\file rác\C\QLTraSua\QLTraSua\obj\Debug\QLTraSua.Progam.QLTaiKhoan.resources
+D:\file rác\C\QLTraSua\QLTraSua\obj\Debug\QLTraSua.Progam.PersonalInfoForm.resources
